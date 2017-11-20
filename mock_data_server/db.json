@@ -1,0 +1,15 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" },
+  "users": [
+  	{ "id": 1, "name": "宝强", "age": 32},
+  	{ "id": 2, "name": "成龙", "age": 59},
+  	{ "id": 1, "name": "冰冰", "age": 39},
+  	{ "id": 1, "name": "范伟", "age": 58}
+  ]
+}
